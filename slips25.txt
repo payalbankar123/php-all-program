@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehicle>
+<Type = Two Wheeler>
+<Vehicler Name >honda </Vehicle Name >
+<Company>hero </Company>
+<Color>black </Color>
+<Average>60 Kmpl </Average>
+</Type>
+
+<Type = Three Wheeler>
+<Vehicler Name >Auto rickshaws </Vehicle Name >
+<Company>Bajaj Autorickshaw </Company>
+<Color>yellow </Color>
+<Average>50kmpl </Average>
+</Type>
+
+<Type = four Wheeler>
+<Vehicler Name >maruti </Vehicle Name >
+<Company>tata </Company>
+<Color>white </Color>
+<Average>60kmpl</Average>
+</Type>
+</Vehicle>

@@ -1,0 +1,33 @@
+<html>
+<head>
+<script src="jquery-3.6.4.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeOut(1000);
+    $("#div2").fadeOut(5000);
+    $("#div3").fadeOut(19000);
+  });
+});
+</script>
+</head>
+<body>
+
+<p>Demonstrate fadeIn() with different parameters.</p>
+
+<button>Click to fade in boxes</button><br><br>
+
+<div id="div1" style="width:80px;height:80px;display:none;background-color:red;">
+   RBNB College <br>
+   Shrirampur
+</div><br>
+<div id="div2" style="width:80px;height:80px;display:none;background-color:green;">
+  CDJ College <br>Shrirampur
+</div><br>
+<div id="div3" style="width:80px;height:80px;display:none;background-color:blue;">
+  BBACA -BCS 
+  Students......
+</div>
+
+</body>
+</html>

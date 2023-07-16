@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/css"?>
+
+ <collegeinfo>
+
+ <College>
+
+<Cname>FCC</Cname>
+
+<City>PUNE</City>
+
+<Rank>1</Rank>
+
+</College>
+
+ <College >
+
+<Cname>CCF</Cname>
+
+<City>PUNE</City>
+
+<Rank>2</Rank>
+
+</College>
+
+<College >
+
+<Cname>FC</Cname>
+
+<City>PUNE</City>
+
+<Rank>3</Rank>
+
+ </College>
+
+</collegeinfo>

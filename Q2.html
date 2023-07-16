@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideUp(1000);
+  });
+
+  $("#flip1").click(function(){
+    $("#panel").slideDown(1000);
+  });
+});
+
+</script>
+<style> 
+#panel, #flip,#flip1 {
+  padding: 5px;
+  text-align: center;
+  background-color: pink;
+  border: solid 1px #c3c3c3;
+  border-color:blue;
+}
+
+#panel {
+  padding: 50px;
+}
+</style>
+</head>
+<body>
+ 
+<div id="flip">FYBBACA Hide</div>
+<div id="panel">
+     Hello world!
+   <h1> OKKKKKKKKKK</h1>
+   <h1> OKKKKKKKKKK</h1>
+   <h1> OKKKKKKKKKK</h1>
+   <h1> OKKKKKKKKKK</h1>
+</div>
+<div id="flip1">FYBBACA Show</div>
+
+</body>
+</html>

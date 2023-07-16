@@ -1,0 +1,22 @@
+<?xml version="1.0">
+<vehical>
+<Type_twovehical>
+   <company>ABC</company>
+<color>pink</color>
+<avrage>10</avrage>
+</Type_twovehical>
+ 
+<Type_threevehical>
+<company>ABC</company>
+<color>pink</color>
+<avrage>10</avrage>
+</Type_threevehical>
+  
+
+<Type_fourvehical>
+<company>ABC</company>
+<color>pink</color>
+<avrage>10</avrage>
+</Type_fourvehical>
+ 
+</vehical>
